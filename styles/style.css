@@ -1,0 +1,61 @@
+
+/*
+Selector, declaration (property: value)
+
+Note that property pertains to the selector e.g p { color: blue;}, color is property of p element
+*/
+
+/*
+ID vs Class selector
+Unique ID can appear only on single element e.g <p id='text-col>'
+Class name can appear on multiple elements
+
+#my-id {}
+.my-class {}
+*/
+
+html {
+    background-color: #66FFCC;
+    font-size: 14px;
+    font-family: PT Sans Narrow;
+}
+
+body {
+    width: 600px;
+    background-color: #B2FFE6;
+    /* centers body horiz on the page */
+    margin: 0 auto;
+    /* padding pitfall - no comma between values, otherwise invalid */
+    padding: 0 20px 20px 20px;   /* top right bottom left */
+    border: 2px solid black;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Lobster, cursive;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+em {
+    font-size: 20px;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #66FFCC;
+    /* offsets - horiz vert blurr color */
+    text-shadow: 3px 2px 4px black;
+}
+
+img {
+    /* image is by default inline element - cannot apply margin, padding */
+    display: block;
+    margin: 0 auto;
+}

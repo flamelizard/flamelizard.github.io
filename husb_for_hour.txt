@@ -1,0 +1,52 @@
+Simple web site to learn/deepen web software skills
+
+Husband for an hour
+
+Jack Bright
+
+Hi, I'm Jack Bright. I do all kind of stuff at household. I can help to
+get rid of old carpets, painting a room for your new born or just give a
+hand at a garden. I have my own equipment and my customer never need to
+worry about tools.
+
+My services include these:
+cleaning furniture
+gardening - cutting grass, weed out, bush trimming
+houseworks - vaccuum cleaning, mopping
+trivial plumming - sink, bathtube, toilet
+
+Above those, I can also:
+walk the dog
+take children to school
+dispose of household waste
+many more
+
+Quote
+Let me worry about the house, have good time
+Jack leaves no dirt behind
+Happy customer will return
+
+Customer reference
+Vendy 27
+I called Jack when my flat got flooded. He helped me to dry the place and now
+it is barely noticeable where the water reached. Thank you.
+
+Phoebe 52
+When my husband got sick, there was too much work at our family estate. I do
+not know how I'd handle that without Jack. It was such a relief to let him the hard work so I can just take care of my husband.
+
+Lucas 26
+Yo, I finally got my driving license. Was worried from previous failures. Well, he ain't doing any psychology but yet he spent some time with me driving around and it worked !
+
+Images
+garden, house and lawn, man photo, tools
+
+Colors
+#66FFCC, #6666FF
+
+Fonts
+Google Fonts API
+<link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+heading - Lobster, cursive
+body - PT Sans Narrow, sans-serif (fall-back font)
+hacking - Orbitron
